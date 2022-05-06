@@ -1,0 +1,7 @@
+bin/
+*.tbl
+.idea
+*/.DS_Store
+.DS_Store
+assets/tmp/
+risingwave/compute-node
